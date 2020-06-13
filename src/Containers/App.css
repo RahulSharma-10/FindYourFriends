@@ -1,0 +1,26 @@
+
+@font-face {
+font-family: 'Gameplay Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Gameplay Regular'), url('Gameplay.woff') format('woff');
+}
+h1{
+font-family: 'Gameplay Regular';
+font-style: normal;
+font-weight: 200;
+color: rgb(256,256,256);
+}
+@font-face {
+font-family: 'Swatch it Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Swatch it Regular'), url('SWATRG__.woff') format('woff');
+}
+h4{
+font-family: 'Swatch it Regular';
+font-style: normal;
+font-weight: 150;
+font-size: 1.5em;
+color: rgb(256,256,256);	
+}
